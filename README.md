@@ -6,7 +6,7 @@
 - Node: v24.11
 - PNPM (v10.23)
     ```sh
-        npm install -g pnpm
+    npm install -g pnpm
     ```
 ## Instalación
 1. Clona el repositorio
@@ -16,6 +16,7 @@
 
 2. Instala los paquetes de PNPM
     ```sh
+    cd fruteria-dashboard
     pnpm install
     ```
 
