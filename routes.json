@@ -1,0 +1,8 @@
+{
+  "/api/*": "/$1",
+  "/stock/entry": "/stockEntries",
+  "/stock/entry/:id": "/stockEntries/:id",
+  "/stock/exit": "/stockExits",
+  "/stock/exit/:id": "/stockExits/:id",
+  "/products": "/products"
+}
